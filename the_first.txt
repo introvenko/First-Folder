@@ -1,2 +1,1 @@
-This is my first file in that repo.
-I hope it won't be too difficult.
+Hello! My name is Volodymyr. I'm 30 years old and I make my first steps in GitHub.
